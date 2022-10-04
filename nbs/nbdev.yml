@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-sample1"
+  site-url: "https://akashdpatel.github.io/nbdev-sample1"
+  description: "check1"
+  repo-branch: main
+  repo-url: "https://github.com/akashdpatel/nbdev-sample1"
