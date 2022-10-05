@@ -5,7 +5,3 @@ __all__ = ['foo']
 
 # %% ../nbs/00_core.ipynb 3
 def foo(): pass
-
-# %% ../nbs/00_core.ipynb 6
-import pandas
-pandas.DataFrame({'col1':[1,2,3], 'col2':[4,5,6]})
